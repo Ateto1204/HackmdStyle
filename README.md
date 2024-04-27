@@ -10,3 +10,6 @@ Just import this into your HackMD note :
 ```
 {%hackmd /@Ateto/Style %}
 ```
+
+## Preview
+![alt](preview.png)
